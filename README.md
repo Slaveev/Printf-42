@@ -1,11 +1,11 @@
 # This is my solution for printf. This is an assignment for 42 school
 
-# You will discover a popular and versatile C function: printf(). This exercise is a great opportunity to improve your programming skills. It is of moderate difficulty.
-# You will discover variadic functions in C.
-# The key to a successful ft_printf is a well-structured and extensible code.
+ You will discover a popular and versatile C function: printf(). This exercise is a great opportunity to improve your programming skills. It is of moderate difficulty.
+ You will discover variadic functions in C.
+ The key to a successful ft_printf is a well-structured and extensible code.
 
 
-Here are the requirements:
+# Here are the requirements:
 • Don’t implement the buffer management of the original printf().
 • Your function has to handle the following conversions: cspdiuxX%
 • Your function will be compared against the original printf().
@@ -13,7 +13,7 @@ Here are the requirements:
 Using the libtool command is forbidden.
 • Your libftprintf.a has to be created at the root of your repository.
 
-You have to implement the following conversions:
+# You have to implement the following conversions:
 • %c Prints a single character.
 • %s Prints a string (as defined by the common C convention).
 • %p The void * pointer argument has to be printed in hexadecimal format. • %d Prints a decimal (base 10) number.
